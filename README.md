@@ -1,2 +1,2 @@
 # JIU
-### 给定一个矩形框，和文字，将文字居中换行
+### Java Graphics2D drawString 水平和垂直居中绘制文本
